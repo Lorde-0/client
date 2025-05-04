@@ -1,0 +1,6 @@
+@echo off
+echo Installing required packages...
+pip install requests
+echo.
+echo Starting the application...
+python login_app.py
